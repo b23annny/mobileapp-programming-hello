@@ -11,5 +11,6 @@
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png![](C:\Users\acnys\StudioProjects\uppgift1.png))
 
+
+![](C:\Users\acnys\StudioProjects\b23annnyuppgift1\uppgift1.png)
